@@ -1,0 +1,1 @@
+("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/" "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/git/")

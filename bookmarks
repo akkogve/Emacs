@@ -1,0 +1,27 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*- 
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("caspar.org"
+ (filename . "c:/Users/Aasmund/Creative Cloud Files/caspar.org")
+ (front-context-string . "* Manus\n** Fosno")
+ (rear-context-string)
+ (position . 1))
+("aasmund.org"
+ (filename . "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/aasmund.org")
+ (front-context-string . "* Canvas \n** Gje")
+ (rear-context-string)
+ (position . 1))
+("init.el"
+ (filename . "~/.emacs.d/init.el")
+ (front-context-string . ";; Start med å p")
+ (rear-context-string)
+ (position . 1))
+("(eintr) Writing Defuns"
+ (front-context-string . "mbol that has a ")
+ (rear-context-string . "efinition.  A\nsy")
+ (position . 106134)
+ (filename . "c:/Users/Aasmund/emacs261/share/info/eintr")
+ (info-node . "Writing Defuns")
+ (handler . Info-bookmark-jump))
+)

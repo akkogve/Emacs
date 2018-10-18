@@ -1,0 +1,202 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Aasmund/AppData/Roaming/Composer/vendor/" . "bin/")
+ ("c:/Users/Aasmund/AppData/Roaming/Composer/" . "vendor/")
+ ("c:/Users/Aasmund/learnosity-qti-develop/" . "learnosity-qti-develop/")
+ ("c:/Users/Aasmund/Downloads/learnosity-qti-develop/" . "learnosity-qti-develop/")
+ ("c:/Users/Aasmund/Downloads/" . "learnosity-qti-develop/")
+ ("c:/Program Files/Adobe/Adobe InDesign CC 2018/Scripts/Scripts Panel/Samples/" . "JavaScript/")
+ ("c:/Program Files/Adobe/Adobe InDesign CC 2018/Scripts/Scripts Panel/" . "Samples/")
+ ("c:/Program Files/Adobe/Adobe InDesign CC 2018/Scripts/" . "Scripts Panel/")
+ ("c:/Program Files/Adobe/Adobe InDesign CC 2018/" . "Scripts/")
+ ("c:/Program Files/Adobe/" . "Adobe InDesign CC 2018/")
+ ("c:/Program Files/" . "learnosity/")
+ ("c:/Users/Aasmund/Documents/" . "journey/")
+ ("c:/Users/Aasmund/Dropbox/privat/simulering/" . "serien2018/")
+ ("c:/Users/Aasmund/Dropbox/privat/" . "simulering/")
+ ("c:/Users/Aasmund/Creative Cloud Files/Fosnot/Fosnot 2018/" . "arkitekten/")
+ ("c:/Users/Aasmund/Creative Cloud Files/Fosnot/" . "Fosnot 2018/")
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/enkeltemne/ele103/" . "h2018/")
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/enkeltemne/" . "ele103/")
+ ("c:/Users/Aasmund/AppData/Roaming/.emacs.d/" . "lisp/")
+ ("c:/Users/Aasmund/AppData/Roaming/" . "Composer/")
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/fagleg stoff/program/" . "python/")
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/fagleg stoff/" . "program/")
+ ("c:/Users/Aasmund/Dropbox/Den norske kyrkja/Landås/ulike enkeltsaker/" . "vipps/")
+ ("c:/Users/Aasmund/Dropbox/Den norske kyrkja/Landås/" . "ulike enkeltsaker/")
+ ("c:/Users/Aasmund/Creative Cloud Files/manus/Begynneropplæringen 2018/" . "De små teller også/")
+ ("c:/Users/Aasmund/Creative Cloud Files/manus/" . "Begynneropplæringen 2018/")
+ ("c:/Users/Aasmund/Creative Cloud Files/" . "Fosnot/")
+ ("c:/" . "Program Files/")
+ ("c:/Users/Aasmund/AppData/" . "Roaming/")
+ ("c:/Users/" . "Aasmund/")
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/emacs/" . "markdown-mode-48011-extras/")
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/" . "LMSCanvas/")
+ ("c:/Users/Aasmund/Dropbox/Den norske kyrkja/" . "Landås/")
+ ("c:/Users/Aasmund/Dropbox/" . "privat/")
+ ("c:/Users/Aasmund/" . "Dropbox/")
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/" . "brukarar/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Aasmund/Dropbox/"
+ "c:/Users/Aasmund/AppData/Roaming/Composer/vendor/bin/"
+ "c:/Users/Aasmund/learnosity-qti-develop/learnosity-qti-develop/"
+ "c:/Program Files/learnosity/"
+ "c:/Users/Aasmund/Downloads/learnosity-qti-develop/learnosity-qti-develop/"
+ "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/brukarar/"
+ "c:/Users/Aasmund/Downloads/"
+ "c:/Program Files/Adobe/Adobe InDesign CC 2018/Scripts/Scripts Panel/Samples/JavaScript/"
+ "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/fagleg stoff/program/python/"
+ "c:/Users/Aasmund/Creative Cloud Files/"
+ "c:/Users/Aasmund/Documents/journey/"
+ "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/"
+ "c:/Users/Aasmund/Dropbox/privat/simulering/"
+ "c:/Users/Aasmund/Dropbox/privat/simulering/serien2018/"
+ "c:/Users/Aasmund/AppData/Roaming/.emacs.d/lisp/"
+ "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/temp/"
+ "c:/Users/Aasmund/Creative Cloud Files/Fosnot/Fosnot 2018/arkitekten/"
+ "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/enkeltemne/ele103/h2018/"
+ "c:/Users/Aasmund/Dropbox/Den norske kyrkja/Landås/ulike enkeltsaker/vipps/"
+ "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/git/"
+ "c:/Users/Aasmund/Creative Cloud Files/manus/Begynneropplæringen 2018/De små teller også/"
+ "c:/Users/Aasmund/AppData/Roaming/"
+ "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/CSS og Javascript/"
+ "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/emacs/"
+ "c:/Users/Aasmund/Dropbox/Den norske kyrkja/Landås/"
+ "c:/Users/Aasmund/Dropbox/privat/dikt/agee/"
+ "c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/rapportar frå Canvas/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "privat.org"
+ "mo.bat"
+ "mo.old"
+ "mo"
+ "composer.json"
+ "x-users.csv"
+ "users.csv"
+ "enrollments.csv"
+ "2018-10-15T0825_Karakterar-SpeedGrader.csv"
+ "MakeGrid.jsx"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Aasmund/Dropbox/" (23492 61338 0 0) "TimeRecording/" "SecureWallet/" "Screenshots/" "Public/" "privat.tex" "privat.pdf" "privat.org" "privat.html" "privat/" "LaTeX/" "Lagringer/" "kvammeselvik.org/" "Knattholmentreff 2016/" "kart/" "ifttt/" "Familie/" "ExpenseManagerPro/" "emacs.akv" "emacs-hib.txt" "emacs-filer.text" "desktop.ini" "Den norske kyrkja/" "caspar/" "algoritme.txt" ".emacs" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("c:/Users/Aasmund/AppData/Roaming/Composer/vendor/bin/" (23494 19979 0 0) "qtisdk.bat" "qtisdk" "mo.old" "mo.bat" "mo" "../" "./")
+
+ ("c:/Users/Aasmund/AppData/Roaming/Composer/vendor/" (23494 19617 0 0) "wp-cli/" "twig/" "symfony/" "qtism/" "psr/" "paragonie/" "learnosity/" "jms/" "ircmaxell/" "doctrine/" "composer/" "bin/" "autoload.php" "../" "./")
+
+ ("c:/Users/Aasmund/AppData/Roaming/Composer/" (23494 19468 0 0) "vendor/" "keys.tags.pub" "keys.dev.pub" "composer.lock" "composer.json" "cacert.pem" ".htaccess" "../" "./")
+
+ ("c:/Users/Aasmund/AppData/Roaming/" (23494 19093 0 0) "texstudio/" "Subversion/" "Spotify/" "Skype/" "RStudio/" "PDF Labs/" "NuGet/" "npm-cache/" "npm/" "Notepad++/" "Mozilla/" "MiKTeX/" "Microsoft/" "MathWorks/" "Macromedia/" "jupyter/" "JetBrains/" "Jedi/" "java/" "Intel Corporation/" "Identities/" "ICAClient/" "Greenshot/" "Google/" "GitHub Desktop/" "Garmin/" "FileZilla/" "Dropbox/" "Design Science/" "Composer/" "CareCenter/" "calibre/" "Atom/" "AdobeWLCMCache.dat" "Adobe/" "Acer Incorporated/" ".emacs~" ".emacs.keyfreq" ".emacs.d/" "../" "./")
+
+ ("c:/Users/Aasmund/learnosity-qti-develop/learnosity-qti-develop/" (23494 18962 0 0) "tests/" "src/" "sonar-project.properties" "README.md" "phpunit.xml" "docs/" "data/" "composer.lock" "composer.json" "bin/" ".gitignore" "../" "./")
+
+ ("c:/Users/Aasmund/learnosity-qti-develop/" (23494 18926 0 0) "learnosity-qti-develop/" "../" "./")
+
+ ("c:/Users/Aasmund/" (23494 18925 0 0) "WebstormProjects/" "Videos/" "unpackedFiles/" "temp/" "Start-meny/" "Skrivere/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "q.log" "PycharmProjects/" "Programdata/" "Pictures/" "php-7.2.11-nts-Win32-VC15-x64/" "package-lock.json" "OneDrive - Høgskulen på Vestlandet/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{d513eb42-687a-11e8-8bd1-b3b97f6bd00f}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{d513eb42-687a-11e8-8bd1-b3b97f6bd00f}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{d513eb42-687a-11e8-8bd1-b3b97f6bd00f}.TM.blf" "NTUSER.DAT{d513eb41-687a-11e8-8bd1-b3b97f6bd00f}.TxR.blf" "NTUSER.DAT{d513eb41-687a-11e8-8bd1-b3b97f6bd00f}.TxR.2.regtrans-ms" "NTUSER.DAT{d513eb41-687a-11e8-8bd1-b3b97f6bd00f}.TxR.1.regtrans-ms" "NTUSER.DAT{d513eb41-687a-11e8-8bd1-b3b97f6bd00f}.TxR.0.regtrans-ms" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "Music/" "Mine dokumenter/" "MicrosoftEdgeBackups/" "matplotlib/" "Maler/" "Lokale innstillinger/" "Links/" "learnosity-qti-develop/" "IntelGraphicsProfiles/" "Google Drive/" "get-pip.py" "Favorites/" "Evernote/" "emacs261/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "dataFiles/" "Creative Cloud Files/" "Cookies/" "Contacts/" "config.js" "Calibre Library/" "Application Data/" "AppData/" "AndrMask/" "Acer/" "Aasmundcaspar/" "3D Objects/" ".WebStorm2018.2/" ".WebStorm2018.1/" ".spyder-py3/" ".PyCharmEdu2018.1/" ".matplotlib/" ".julia/" ".ipython/" ".gitconfig" ".config/" ".condarc" ".conda/" ".bash_history" ".atom/" ".anaconda/" "../" "./")
+
+ ("c:/Program Files/learnosity/" (23494 5238 0 0) "vendor/" "tests/" "src/" "sonar-project.properties" "README.md" "phpunit.xml" "docs/" "data/" "composer.lock" "composer.json" "bin/" ".gitignore" "../" "./")
+
+ ("c:/Program Files/" (23494 5153 0 0) "WindowsPowerShell/" "WindowsApps/" "Windows Sidebar/" "Windows Security/" "Windows Portable Devices/" "Windows Photo Viewer/" "windows nt/" "Windows Multimedia Platform/" "Windows Media Player/" "Windows Mail/" "Windows Defender/" "Uninstall Information/" "Synaptics/" "RStudio/" "Reference Assemblies/" "Realtek/" "R/" "Pandoc/" "NortonInstaller/" "Norton Security/" "nodejs/" "MSBuild/" "Microsoft Office 15/" "MATLAB/" "learnosity/" "iPod/" "internet explorer/" "Intel/" "Greenshot/" "Google/" "Git/" "FileZilla FTP Client/" "Fellesfiler/" "DriverSetupUtility/" "DIFX/" "desktop.ini" "Common Files/" "Adobe/" "Acer/" "7-Zip/" "../" "./")
+
+ ("c:/Users/Aasmund/Downloads/learnosity-qti-develop/learnosity-qti-develop/" (23494 4043 0 0) "tests/" "src/" "sonar-project.properties" "README.md" "phpunit.xml" "docs/" "data/" "composer.lock" "composer.json" "bin/" ".gitignore" "../" "./")
+
+ ("c:/Users/Aasmund/Downloads/learnosity-qti-develop/" (23494 4017 0 0) "learnosity-qti-develop/" "../" "./")
+
+ ("c:/Users/Aasmund/Downloads/" (23494 4017 0 0) "Sak nr 065 18_Stillingsbeskrivelse Menighetspedagog 2017.pdf" "php-7.2.11-nts-Win32-VC15-x64.zip" "learnosity-qti-develop.zip" "learnosity-qti-develop/" "desktop.ini" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/" (23493 3300 0 0) "_region_.prv/" "WISEflow/" "webwork/" "vestlandsalliansen.xlsx" "Vaktliste digital drop-in.xlsx" "Undervising.url" "test/" "temp/" "sensoroppdrag/" "R/" "python/" "puttygen.exe" "putty.exe – Snarveg.lnk" "putty.exe" "Opptak pågår.docx" "Notebooks/" "Notatblokker/" "mandag.csv" "mal.tex" "mal.pdf" "mal.log" "mal.aux" "mailingliste.xlsx" "ltximg/" "LMSCanvas/" "koder.org" "kalender 2017.xlsx" "kalender 2016.xlsx" "kalender 2015.xlsx" "Julekveldsvisa 2.docx" "javascript/" "hvl.spacemacs" "hvl-ppt-mal.pptx" "hvl-logo.xcf" "hvl-logo.png" "hvl-logo.jpeg" "hvl-logo-stor.xcf" "hvl-logo-stor.png" "hvl-logo-mobil.xcf" "hvl-logo-mobil.png" "hvl-logo-ico.xcf" "hvl-logo-ico.ico" "html" "HiB undervising.url" "HiB administrasjon/" "havamal.txt" "git/" "Fremdriftsplan og orientering.docx" "framside-eksamensoppgave.docx" "Framlegg til eksamensplan VÅR 2017.xlsx" "Framlegg til eksamensplan HØST2017.xlsx" "forsats.tex" "fiks-spacemacs.text" "fagleg stoff/" "enkeltemne/" "emacs.hib" "emacs.akv" "emacs/" "e-læring@hvl/" "Dokument1.docx" "Dokument.pdf" "Dokument.docx" "Documents/" "desktop_HIB-11642_1.ini" "desktop_AASMUND-SURFACE_1.ini" "desktop.ini" "Caspar.url" "Caspar.ms-one-stub" "caspar temp/" "canvas.org" "Canvas ved HVL.url" "blodbussen.xlsx" "bilete/" "adventskalender 2016.docx" "administrasjon/" "AASMUND.url" "aasmund.tex" "aasmund.pdf" "aasmund.org" "aasmund.html" "Aasmund på Høgskulen på Vestlandet.url" "Aasmund @ Høgskulen på Vestlandet.url" "Aasmund @ Høgskolen i Bergen.url" "2017-18- Super-QUIZ-FØRSTE RUNDE.docx" "170217 kurs fredag.docx" ".spacemacs" ".Rhistory" ".849C9593-D756-4E56-8D6E-42412F2A707B" "#AASMUND.org#" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/brukarar/" (23492 13456 0 0) "x-users.csv" "vircamp2.xlsx" "velkomst VirCamp.docx" "velkomst ekstern norsk.docx" "velkomst ekstern Feide.docx" "users.csv" "temp.csv" "sis-import.zip" "section.csv" "opprette seksjonar/" "logg.org~" "logg.org" "gjenoppretting.csv" "feide-users temp.csv" "enrollments.csv" "eksterne.xlsx" "diverse/" "courses.csv" "adresseliste.xlsx" "180918_doble.csv" "180917_personar_med_dobbelt_identitet.text" ".#users.csv" "../" "./")
+
+ ("c:/Program Files/Adobe/Adobe InDesign CC 2018/Scripts/Scripts Panel/Samples/JavaScript/" (23317 42436 0 0) "TabUtilities.jsx" "SplitStory.jsx" "SortParagraphs.jsx" "SelectObjects.jsx" "PlaceMultipagePDF.jsx" "PathEffects.jsx" "Neon.jsx" "MakeGrid.jsx" "ImageCatalog.jsx" "FindChangeSupport/" "FindChangeByList.jsx" "ExportAllStories.jsx" "CropMarks.jsx" "CreateCharacterStyle.jsx" "CornerEffects.jsx" "BreakFrame.jsx" "AnimationEncyclopedia.jsx" "AlignToPage.jsx" "AdjustLayout.jsx" "AddQRCode.jsx" "AddPoints.jsx" "AddGuides.jsx" "../" "./")
+
+ ("c:/Program Files/Adobe/Adobe InDesign CC 2018/Scripts/Scripts Panel/Samples/" (23317 42436 0 0) "VBScript/" "JavaScript/" "../" "./")
+
+ ("c:/Program Files/Adobe/Adobe InDesign CC 2018/Scripts/Scripts Panel/" (23317 42436 0 0) "Samples/" "Indic Preferences.js" "../" "./")
+
+ ("c:/Program Files/Adobe/Adobe InDesign CC 2018/Scripts/" (23317 42436 0 0) "XML Rules/" "startup scripts/" "Scripts Panel/" "Preflight/" "converturltohyperlink/" "../" "./")
+
+ ("c:/Program Files/Adobe/Adobe InDesign CC 2018/" (23317 42442 0 0) "ZXPSignLib-minimal.dll" "WRServices.dll" "WidgetBin.dll" "VulcanMessage5.dll" "VulcanControl.dll" "updaternotifications.dll" "unihan.dll" "Unihan.bin" "typekitC4.dll" "TextPanelLib.dll" "tbbmalloc.dll" "tbb.dll" "svml_dispmd.dll" "SVGRE.dll" "SVGExport.dll" "Scripts/" "ScCore.dll" "SangamML.dll" "Sangam.dll" "Rulebase/" "Resources/" "Required/" "RealTimeMark.csv" "Public.dll" "Presets/" "PMRuntime.dll" "PlugPlugOwl.dll" "PlugPlugExternalObject.dll" "Plugin.dll" "Plug-Ins/" "PDFSettings.dll" "PDFPort.dll" "PathTypeLib.dll" "OBLRes/" "ObjectModel.dll" "MPS.dll" "LogTransport2.exe" "LogSession.dll" "libmmd.dll" "Legal/" "Kickstart.exe" "JP2KLib.dll" "InDesignServerService.exe.metagen" "InDesign.exe" "icuuc40.dll" "icuin40.dll" "icudt40.dll" "icucnv40.dll" "Fonts/" "ExtLib.dll" "ExtendScript.dll" "ExperimentationSDK.dll" "exo.dll" "DV_WidgetBin.dll" "dvaworkspace.dll" "dvaunittesting.dll" "dvaui.dll" "dvatransport.dll" "dvatemporalxmp.dll" "dvascriptui.dll" "dvanet.dll" "dvametadataUI.dll" "dvametadata.dll" "dvamediatypes.dll" "dvamarshal.dll" "dvaflashview.dll" "dvaeve.dll" "dvacore.dll" "dvaadameve.dll" "Documentation/" "dict/" "Database.dll" "CR_WIN_CLIENT_CONFIG.cfg" "CRWindowsClientService.exe" "CRLogTransport.exe" "CRClient.dll" "CoolType.dll" "Configuration/" "boost_threads.dll" "boost_system.dll" "boost_signals.dll" "boost_regex.dll" "boost_filesystem.dll" "boost_date_time.dll" "BIBUtils.dll" "BIB.dll" "AXSLE.dll" "AXEDOMCore.dll" "AXE8SharedExpat.dll" "AXE16SharedExpat.dll" "ATR.dll" "ASLSupport.dll" "ASKLib.dll" "ARE.dll" "APE/" "amtlib.dll" "AMT/" "AIGPUSniffer.exe" "AIDE.dll" "ahclient.dll" "AGM.dll" "aflamingo.dll" "AFL.dll" "adobe_caps.dll" "AdobeXMPScript.dll" "AdobeXMPFiles.dll" "AdobeXMP.dll" "AdobeSVGAGM.dll" "AdobePSL.dll" "AdobePIP.dll" "AdobePDFL.dll" "AdobeOwl.dll" "AdobeLinguistic.dll" "AdobeGesture.dll" "ADBE_AGMFL.dll" "adbeape.dll" "AdamLib.dll" "ACE.dll" "About/" "(ObjectModel Resources)/" "(InDesign Resources)/" "../" "./")
+
+ ("c:/Program Files/Adobe/" (23438 58313 0 0) "Adobe Photoshop CC 2018/" "Adobe InDesign CC 2018/" "Adobe InCopy CC 2018/" "Adobe Illustrator CC 2018/" "Adobe Audition CC 2018/" "../" "./")
+
+ ("c:/Users/Aasmund/Creative Cloud Files/" (23491 16170 0 0) "tangenten/" "minion105.eqp" "manus 12.eqp" "manus/" "InDesign Magazine/" "hbo_pdf til trykk_2016.pdf" "Fosnot/" "desktop.ini" "caspar.org" "2017-11-02 18_29_46-Adobe InDesign CC 2018.png" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/fagleg stoff/program/python/" (23488 55735 0 0) "yatzy.py~" "yatzy.py" "utskrift.py" "trekking_utan_tilbakelegging.py~" "trekking_utan_tilbakelegging.py" "trekking.py~" "trekking.py" "treboker.py~" "treboker.py" "trapes.py~" "trapes.py" "test.py~" "test.py" "test-Aasmund-MSI.py~" "test-Aasmund-MSI.py" "sum1.py" "sum.py~" "sum.py" "simpson.py~" "simpson.py" "seksarar.py~" "seksarar.py" "scripting-src.tar.gz" "scripting-doc.tar.gz" "scitest.py" "sandhaug.py~" "sandhaug.py" "sampling.py~" "sampling.py" "rekursjon.py~" "rekursjon.py" "rektangel.py~" "rektangel.py" "Python Scripting For Computational Science [H.P.Langtangen 2004].pdf" "primtal_tangenten/" "primtalssummer/" "parav160.py" "odd.py" "numpybook.pdf" "mckay/" "log-2.py~" "log-2.py" "log-1.py~" "log-1.py" "lego/" "jev-spel.py~" "graphics.py" "funksjon.py~" "funksjon.py" "frokostblanding/" "formel.py~" "formel.py" "fireterningar/" "faktorsum.py~" "faktorsum.py" "euler29.py" "euler-4.py~" "euler-4.py" "euler/" "Diverse/" "data_analysis/" "data.json" "computing_with_python/" "canvas-portal-lenkebruk.js" "brok.py" "binaersum.py~" "binaersum.py" ".ipynb_checkpoints/" "#test.py#" "../" "./")
+
+ ("c:/Users/Aasmund/Documents/" (23487 37076 0 0) "Årgang 12.zip" "Årgang 11.zip" "Årgang 10.zip" "Årgang 09.zip" "Årgang 08.zip" "Årgang 07.zip" "Årgang 06.zip" "Årgang 05.zip" "Ulikt/" "TNG/" "Tittel.mp4" "Tangenten.zip" "Tangenten/" "R/" "Outlook-filer/" "OneNote-notesbøger/" "OneNote-notatblokker/" "OneNote Notebooks/" "New document.rtf" "My Kindle Content/" "My Games/" "MuseScore2/" "Mine datakilder/" "Mine bilder/" "Min notatblokk.url" "Min musikk/" "MATLAB/" "Landås.url" "Landås menighetsråd.url" "journey/" "Intern video/" "IMG.bmp" "HP Prime/" "HiB - itslearning.url" "GIS DataBase/" "Girard5.mp3" "Girard4.mp3" "Girard3.mp3" "Girard2.mp3" "Girard1.mp3" "FeedbackHub/" "ELE103.url" "Egendefinerte Office-maler/" "E-læring AIØ.url" "Digitalisering.url" "desktop.ini" "David Earle Parmentier - 7. juni 2017 14.31.25.mp4" "Database1.accdb" "Custom Office Templates/" "Creative copy/" "Canvas/" "Calibre-bibliotek/" "Audible/" "Adobe/" "Aasmund's Notebook.url" "2017, Vol. 28.zip" "2016, Vol. 27.zip" "2015, Vol. 26.zip" "2014, Vol. 25.zip" "2013, Vol. 24.zip" "180901 tangenten 3 2008 LAMIS.pdf" ".Rhistory" ".RData" "../" "./")
+
+ ("c:/Users/Aasmund/AppData/Roaming/.emacs.d/" (23487 36614 0 0) "url/" "tutorial/" "srecode-map.el" "snippets/" "recentf" "projectile.cache" "projectile-bookmarks.eld" "lisp/" "init.el" "ido.last" "eshell/" "elpa/" "bookmarks" "auto-save-list/" "abbrev_defs" "../" "./")
+
+ ("c:/Users/Aasmund/Dropbox/privat/simulering/" (23480 53740 0 0) "Yatzy/" "vm2014/" "untitled0.py" "test.py" "test/" "simulering1.py" "serien2018/" "serien2010/" "rutiner.py" "polyaurne/" "oppgavecup 2016/" "MontyHall/" "ModSimPy.pdf" "Markov/" "lyspærer/" "Fotballserien Norge/" "fil.dat" "em2016/" "cup 2015/" "craps/" "buffon/" ".ipynb_checkpoints/" "../" "./")
+
+ ("c:/Users/Aasmund/Dropbox/privat/simulering/serien2018/" (23479 29386 0 0) "__pycache__/" "variable.pyc" "variable.py" "rutiner.py" "lag.text" "kamper_akv.xlsx" "kamper.xlsx" "gamletal.py" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/enkeltemne/ele103/h2018/" (23479 29343 0 0) "Untitled.ipynb" "tredje_innlevering_fasit.tex" "tredje_innlevering_fasit.pdf" "tredje_innlevering_fasit.log" "tredje_innlevering_fasit.aux" "tredje_innlevering.tex" "tredje_innlevering.pdf" "tredje_innlevering.log" "tredje_innlevering.aux" "maxresdefault.jpg" "materiale frå læreboka/" "karakterstatistikk.png" "førelesingar/" "Fremdriftsplan og orientering.docx" "framside.png" "framside.jpg" "ELE103_undervegsevaluering_2018.csv.txt" ".ipynb_checkpoints/" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/temp/" (23478 27036 0 0) "TODO.pdf" "temp_kom.csv" "tables.pdf" "markdown-test.md" "markdown-test.html" "git-intro.pdf" "fotball.csv" "Emacs and Pairs.pdf" "Canvas_1_obligatorisk-ELE103_ETK_KOM_MPR.csv" "Canvas_1_obligatorisk-ELE103_EAU_EEL_ELK.csv" "calc_manual.pdf" "An introduction to Magit, an Emacs mode for Git - Mastering Emacs.pdf" "20180820085051.pdf" "20180820085031.pdf" "../" "./")
+
+ ("c:/Users/Aasmund/AppData/Roaming/.emacs.d/lisp/" (23480 47767 0 0) "my-abbrev.el~" "my-abbrev.el" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/" (23478 21696 0 0) "Western Norway University of Applied Sciences Order Form.pdf" "ulikt/" "temp.html" "StudenttingetNord/" "rettar.xlsx" "rapportar om Canvas/" "rapportar frå Canvas/" "Pilotar vår 2018/" "Pilotar haust 2017/" "paper.pdf" "P6080513.png" "opplæring/" "omsetjing/" "malemne/" "LTI/" "LMS-gruppa/" "krysslistingar/" "kommunikasjon/" "itslearning/" "integrasjonar/" "feilmeldingar/" "facebook/" "emneeksportar/" "dokumentasjon frå Instructure/" "diverse manualar/" "CSS og Javascript/" "CLI/" "Canvas-mal.docx" "Canvas release/" "brukarar/" "blogg/" "API/" "adresseliste.txt" "administrasjon/" "2018-07-16 08_06_27-SIS-import.png" ".git/" ".#dagens brukarar.csv" "../" "./")
+
+ ("c:/Users/Aasmund/Creative Cloud Files/Fosnot/Fosnot 2018/arkitekten/" (23477 9409 0 0) "~arkitekten~ry876d.idlk" "TheArchitectsProject_AppendixA_L.pdf" "omsette filer/" "læringslandskap.text" "figurar/" "desktop.ini" "arkitekten.icml" "arkitekten 2018.indd" "arkitekten 2018 Oppdrag/" "arkitekten 2018 gamal.indd" "architects intro.pdf" "architects intro.doc" "181003 arkitekten.pdf" "180720 arkitekten vedlegg.pdf" "180718 arkitekten.pdf" "180716 arkitekten.pdf" "180713 arkitekten.pdf" "180710 arkitekten.pdf" "../" "./")
+
+ ("c:/Users/Aasmund/Creative Cloud Files/Fosnot/Fosnot 2018/" (23441 20913 0 0) "arkitekten/" "../" "./")
+
+ ("c:/Users/Aasmund/Creative Cloud Files/Fosnot/" (23441 20888 0 0) "Fosnot 2018/" "Fosnot 2017/" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/enkeltemne/ele103/" (23458 41378 0 0) "_region_.tex" "_region_.prv/" "_region_.pdf" "_region_.log" "webwork/" "v2018/" "v2016/" "v2015/" "v2014/" "Untitled.ipynb" "ulike notat/" "tredje innlevering fasit.tex~" "tredje innlevering fasit.tex" "tredje innlevering fasit.pdf" "tredje innlevering fasit.log" "tredje innlevering fasit.aux" "tredje innlevering fasit (Aasmund.Kvamme@hib.no).pdf" "texput.log" "testdir/" "Statistikk-for-universiteter-og-hoegskoler_microsite_lightbox.jpg" "Statistikk-for-universiteter-og-hoegskoler_microsite_cover.jpg" "sider frå Løvås/" "reserve/" "prv_tredje_innlevering_fasit.log" "prv_kvadratsummer.log" "oppgåver i Løvås/" "nmbu-kurs/" "matlab/" "materiell/" "Mat100-nov14.pdf" "lotto-kupongar.xlsx" "kvadratsummer.tex" "kvadratsummer.pdf" "kvadratsummer.log" "kvadratsummer.dvi" "kvadratsummer.aux" "Koebel-00567.png" "klyngeanalyse.pdf" "jacobsst.jpg" "instruksjonsvideoar/" "h2018/" "h2017/" "h2016/" "h2015/" "h2014/" "h2013/" "Gjeremål.boxnote" "fagleg stoff/" "ess i nte trekking.xlsx" "ele103/" "eldre eksamensoppgåver/" "arkiv itslearning/" ".Rhistory" ".RData" ".ipynb_checkpoints/" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/enkeltemne/" (23318 26816 0 0) "statistikk/" "My EndNote Library.enl" "My EndNote Library.Data/" "mat104/" "ele103/" "diverse studentarbeid/" "byg102/" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/fagleg stoff/program/" (23330 33800 0 0) "test.bra~" "Scilab/" "sage/" "s/" "python/" "prolog/" "php/" "perl/" "octave/" "Maxima/" "MATLAB/" "lua/" "julia/" "javascript/" "java/" "hp/" "haskell/" "geogebra/" "csvkit/" "css/" "betterave.rb~" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/fagleg stoff/" (23318 26995 0 0) "WISEflow/" "webwork-oppgaver/" "WeBWorK/" "usortert/" "UNINETT/" "thinkstat/" "texas/" "symlinks.sh" "svg/" "statistikk/" "SMART/" "slidy sandkasse/" "Sage/" "rethinking the role of algorithms.pdf" "Referansegruppe-hefte.pdf" "README.md" "R/" "QTI/" "program/" "problem/" "pdftk-examples.odt" "Pdftk Examples.docx" "PARENT 2017/" "papert/" "pandoc/" "padwheelposter.pdf" "nyttige_kommandoar.tex" "Norgesuniversitetet/" "NIKT 2016/" "MCMC/" "maxima/" "MatRIC/" "MATLAB/" "latex/" "konvergens/" "klassekampen/" "karakterundersøking 2015/" "kalender 2017.xlsx" "itslearning-administrasjon/" "integrasjon/" "ikt/" "høgskolepedagogikk/" "html/" "hp/" "Free42Windows/" "FoU/" "faren_ved_pugging.tex" "Ent3r/" "emacs/" "elæring/" "eksempel.pg" "eksamensoppgaver/" "diverse/" "didaktikk/" "derivasjon/" "coursera/" "Blackboard/" "binomisk kalkulator.xlsx" "bachelor/" "adams and essex/" "aasmund kvamme.pdf" "../" "./")
+
+ ("c:/Users/Aasmund/Dropbox/Den norske kyrkja/Landås/ulike enkeltsaker/vipps/" (23473 14058 0 0) "~WRD000.jpg" "vekesoppgjer.xlsx" "vekesoppgjer.csv" "novemberdesember2017salgsrapport.xlsx" "novemberdesember2017.xml" "novemberdesember2017.xlsx" "novemberdesember2017.csv" "dagsoppgjer.csv" "08august.xlsx" "08august.pdf" "08august.csv" "07juli.xlsx" "07juli.pdf" "07juli.csv" "06juni.xlsx" "06juni.pdf" "06juni.csv" "05mai.xlsx" "05mai.pdf" "05mai.csv" "04april22.xlsx" "04april22.pdf" "04april22.csv" "04april15.xlsx" "04april15.pdf" "04april15.csv" "03marssalgsrapport.xlsx" "03mars.xml" "03mars.xlsx" "03mars.csv" "02februarsalgsrapport.xlsx" "02februar.xml" "02februar.xlsx" "02februar.csv" "01januarsalgsrapport.xlsx" "01januar.xml" "01januar.xlsx" "01januar.csv" "../" "./")
+
+ ("c:/Users/Aasmund/Dropbox/privat/" (23458 42081 0 0) "webwork_getting_started_2009_06.pdf.crdownload" "webwork_getting_started_2009_06.pdf" "Wallace-and-Gromit-Wallace-and-Gromit-Theme.mp3" "vipps_receipt_.png" "vannmangel-raade.txt" "UNEX/" "ulikt/" "Turar/" "Trening/" "TNS/" "Tidemand_De_ensomme_gamle.jpg" "Thanks for your order - PayPal_files/" "Thanks for your order - PayPal.html" "test.markdown" "test.html" "test" "tekstar frå MAD/" "stock-vector-circular-calendar-115984882.jpg" "skulegenser Andreas.png" "skjema-2.tif" "skjema-1.tif" "skatt/" "simulering/" "SecureWallet/" "Scan-3.jpg" "Scan-2.jpg" "Scan-1.jpg" "sanghefte.pdf" "salhus-241112.pdf" "sage/" "Rmarkdown/" "rekning speiderleir 2013.png" "pw.docx" "platou challenge 2015.xlsx" "pearson 2012/" "P8010248 (2).JPG" "ottar-260114.txt" "Olympus/" "norske viseprofiler/" "Norges smarteste/" "norge090_124_1750.jpg" "New Microsoft Excel Worksheet.xlsx" "musikk/" "MobileOrg/" "menighet høymesse uten dåp.pdf" "menighet høymesse med dåp.pdf" "linux/" "lffyhnb.jpg" "leseplan.csv~" "leseplan.csv" "Landås/" "Krigen om ringen/" "klage230213.odt" "kenguru.png" "keep-calm-and-call-the-doctor.jpg" "kalender.tex~" "kalender.tex" "kalender.pdf" "kalender.log" "kalender.aux" "k29.epub" "Jonas Fjeld/" "jakke-johannes.txt" "IMG_1046.JPG" "imageee.jpg" "I tilfelle konflikt 2016.docx" "hvl.png" "hp/" "god rest you merry.odt" "geistlige embeder.odt" "gebyr032350.pdf" "Garmin/" "Finse 2012/" "ExpenseManager/" "dvd.oxps" "diverse/" "dikt/" "circular-calendar-2013_34-58374.jpg" "Brosjyre Helgatun 2014_inter.pdf" "bookmarks_04.05.2015.html" "bookmarks_03.05.2015.html" "bjovulf.odt" "bibelleseplan.xlsx" "bibelleseplan.csv" "betalinger.csv" "Barske børnerim/" "bank/" "baldersheim/" "Backup-codes-akkogve.txt" "Andreas.tif" "amt2_soendre-trondhjems-amt-47_1761.jpg" "adventskalender/" "adfs.png" "180913 billett til Sogndal.pdf" "180125 FINN.png" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/emacs/" (23473 325 0 0) "reveal/" "mastering-emacs-v2.pdf" "mastering-emacs-v2.mobi" "mastering-emacs-v2.epub" "markdown-mode.pdf" "markdown-mode-book-extras.zip" "markdown-mode-48011-extras/" "main-qimg-abc66334a6d43a41b14e2e38898c4e8b.png" "init.acer" "hurtigtaster.org" "Helm _ Emacs incremental completion and selection narrowing framework.pdf" "dired.pdf" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/git/" (23471 63268 0 0) "fil1.text" ".git/" "../" "./")
+
+ ("c:/Users/Aasmund/Dropbox/Den norske kyrkja/Landås/ulike enkeltsaker/" (23473 7226 0 0) "årsplan/" "visitas 2012/" "virksomhetsgjennomgang 2017-18/" "vipps/" "vikar haust 2010/" "vegg/" "val/" "ungdomsarbeidet/" "trykksaker/" "trosopplæring/" "tekstlesarar 2011/" "Sykkel-VM/" "strategisk plan 2011/" "stolar/" "staben/" "songar/" "somh/" "Slettebakken/" "samling februar 2015/" "prostiforum/" "ordensreglar menighetsavdelinga/" "open barnehage/" "ny sokneprest 2017/" "ny prest 2014/" "ny prest 2011/" "Ny mappe/" "ny kyrkjeordning/" "nettside/" "Mottak av brikke til bruk av BKF Økonomis nettportal.docx" "menighetskonsulent/" "menighetsbladet/" "loppemarknad 2014/" "LME vedtekter 2014/" "liturgiark/" "kyrkjekoret/" "kunstverk 2013/" "Kristi kongedag 20. nov Joh 9,39-41 om lys og dom.doc" "Konfirmantsamlinger høsten 2011 i Landås menighet.doc" "komfyr/" "Kirkens SOS/" "jubileum 2016/" "husstyret/" "Helgatun/" "heimeside/" "grunnbok 2018/" "giverteneste/" "frivillige/" "fasteaksjon 2017/" "EVALUERING AV KANTORREFORMEN- høringsspørsmål.doc" "epostadresser/" "diakonstilling/" "bærekraftig liv/" "Brev til menighetsråd ang.  blomsterhilsen.doc" "bkf-portal-111109.png" "BKF-hoyring 2012/" "bispesamling-121109.odt" "bispedømerådet 2011/" "bekymringsbrev 2017/" "basarar/" "barnekora/" "barnehagen/" "administrasjonsleder/" "2017 tre stillingar/" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/diverse manualar/" (23461 2145 0 0) "vel grupper sjølv/" "Tutorial managing your start_02.18.docx" "Tutorial ePortfolio February 2018.docx" "studentgrupper.pdf" "student - vel gruppe til innlevering.pdf" "Skifte passord i Canvas ved HVL.pdf" "Skifte passord i Canvas ved HVL.docx" "Pensum mangler i menyen.pdf" "Pensum mangler i menyen.docx" "Opprette grupper for studentar.pdf" "Opprette grupper for studentar.docx" "Legge kollegaer og studentar til emnet ditt.pdf" "Legge kollegaer og studentar til emnet ditt - gamal.docx" "karakterar/" "import-oppdatert.png" "import-1.png" "Grupper i Canvas.pdf" "Groups in Canvas.pdf" "Feide frå andre bedriftar.pdf" "Feide frå andre bedriftar.docx" "eksterne brukarar/" "change settings in Canvas.pdf" "bibliotektilsette i Canvas.pdf" "bibliotektilsette i Canvas.docx" "biblioteket/" "180820 velg ei gruppe.docx" "180820 vel ei gruppe som student.pdf" "180820 vel ei gruppe som student.docx" "180815-feide 3.png" "180815-feide 2.png" "180815-feide 1.png" "180808 sjekkliste for førstelinetenesta.pdf" "180808 sjekkliste for førstelinetenesta.docx" "180808 eigendefinerte grupper.pdf" "180808 eigendefinerte grupper.docx" "180807 Feide 4.png" "180807 Feide 3.png" "180807 Feide 2.png" "180807 Feide 1.png" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/CSS og Javascript/" (23462 19999 0 0) "workshop mai 2018/" "terje/" "RestAPI/" "flexboxgrid-6.3.1/" ".indium.json" "../" "./")
+
+ ("c:/Users/Aasmund/Creative Cloud Files/manus/Begynneropplæringen 2018/De små teller også/" (23467 56441 0 0) "trude_jakob.fm" "trude_jakob.backup.fm" "TRUDE.Txt" "TRUDE.TEX" "trude.fm" "trude.backup.fm" "TFJM.Txt" "TFJM.TEX" "p.bat" "Om_forfattarane.fm" "Om_forfattarane.backup.fm" "Om_artiklane.fm" "Om_artiklane.backup.fm" "OMARTIKL.Txt" "OMARTIKL.TEX" "nora_2.fm" "nora_2.backup.fm" "nora_1.fm" "nora_1.backup.fm" "NORA2.Txt" "NORA2.TEX" "NORA1.Txt" "NORA1.TEX" "Marit_2.fm" "Marit_2.backup.fm" "marit_1.fm" "marit_1.backup.fm" "MARIT3.TEX" "MARIT2.Txt" "MARIT2.TEX" "MARIT1.Txt" "MARIT1.TEX" "litteratur.fm" "litteratur.backup.fm" "LITT.Txt" "LITT.TEX" "kapittel-mal.fm" "kapittel-mal.backup.fm" "JON.Txt" "JON.TEX" "jon.fm" "jon.backup.fm" "JANNE.Txt" "JANNE.TEX" "janne.mif" "janne.fm" "janne.backup.fm" "INNHOLD.TEX" "grafikk/" "FORSATS.TEX" "forsats.fm" "forsats.backup.fm" "FORORD.TEX" "forord.fm" "forord.backup.fm" "FORFATT.TEX" "ELIN.TXt" "ELIN.TEX" "elin.fm" "elin.backup.fm" "EKSTRA.TEX" "EINAR.Txt" "EINAR.TEX" "einar.fm" "einar.backup.fm" "DVISCR.DLG" "dvips.mfj" "desmaaTOC.fm" "desmaaTOC.backup.fm" "DESMAA.Txt" "DESMAA.TEX" "desmaa.ps" "desmaa.pdf" "desmaa.p65" "desmaa.log" "desmaa.fm" "desmaa.css" "desmaa.book" "desmaa.backup.fm" "desmaa.backup.book" "BAKSIDE.TEX" "../" "./")
+
+ ("c:/Users/Aasmund/Creative Cloud Files/manus/Begynneropplæringen 2018/" (23467 55740 0 0) "Kapittel 1 skisse 1.pdf" "Kapittel 1 skisse 1.indd" "Kapittel 1 - ferdig 18 09 til Aasmund 26 09.docx" "De små teller også/" "Begynneropplæringen 2018.pdf" "Begynneropplæringen 2018.indd" "../" "./")
+
+ ("c:/Users/Aasmund/Creative Cloud Files/manus/" (23467 48471 0 0) "rom for matematikk 2018/" "Matematikk med mening 2016/" "Begynneropplæringen 2018/" "../" "./")
+
+ ("c:/Users/" (23317 40886 0 0) "Public/" "desktop.ini" "Default User/" "Default/" "All Users/" "Aasmund/" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/LMSCanvas/rapportar frå Canvas/" (23461 2143 0 0) "xliste.csv" "tabell.csv" "sis_errors_attachment_4036.csv" "påmeldingar haust 2018.csv" "påmeldingar haust 2017.csv" "provisioning_csv_31_Aug_2018_2182120180831-28929-djpru1.csv" "provisioning_csv_10_Sep_2018_2318920180910-29163-14ta1zl.csv" "occur.csv" "grupper HVL.zip" "grupper HVL/" "grupper FHS.csv" "emne vår 2018.csv" "emne vår 2018 vår 2021.csv" "emne vår 2018 vår 2019.csv" "emne vår 2018 haust 2019.csv" "emne vår 2018 haust 2018.csv" "emne haust 2018.csv" "emne haust 2018 vår 2019.csv" "emne haust 2018 haust 2022.csv" "emne haust 2018 haust 2019.csv" "emne haust 2018 haust 2010.csv" "emne haust 2017.csv" "emne haust 2017 vår 2021.csv" "emne haust 2017 vår 2019.csv" "emne haust 2017 haust 2019.csv" "emne haust 2017 haust 2018.csv" "brukarar haust 2018.csv" "brukarar haust 2017.csv" "attendance FLKI 27-31 august.xlsx" "alle emne 2017-2018.csv" "180918 sletta brukarar.csv" "180917 alle emne heile HVL.csv" "180917 alle brukarar heile HVL.csv" "180907 ing102.csv" "180831 tilsette FLKI.csv" "180831 sletta påmeldingar.csv" "180831 administratorar FLKI.csv" "180829 administratorar.csv" "180810 FLKI emne og påmeldingar/" "180803 FLKI emne og påmeldingar/" "../" "./")
+
+ ("c:/Users/Aasmund/OneDrive - Høgskulen på Vestlandet/emacs/markdown-mode-48011-extras/" (23460 1874 0 0) "pdfreferencecard/" "../" "./")
+
+ ("c:/Users/Aasmund/AppData/" (23317 39772 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Users/Aasmund/Dropbox/Den norske kyrkja/Landås/" (23460 2536 0 0) "ulike enkeltsaker/" "soknerådet/" "Siste versjon Julaftengudstjeneste i Landås kirke 2012.docx" "reknskap/" "landås.org" "kor/" "kirkeloven-utdrag.odt" "Gudstjenesteliste 03.07.- 31.12..xlsx" "Gudstj-var-2018.docx" "fadervaar.odt" "Div liturgi.pdf" "291017 Agende Landås.pdf" "../" "./")
+
+ ("c:/Users/Aasmund/Dropbox/privat/dikt/agee/" (23458 42418 0 0) "knoxville_1915.md" "../" "./")
+
+ ("c:/Users/Aasmund/Dropbox/Den norske kyrkja/" (23317 43697 0 0) "LME/" "Landås/" "Kirkens SOS/" "KA/" "haandbok_2015_webutgave.pdf" "BKF/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
